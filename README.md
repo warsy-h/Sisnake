@@ -1,3 +1,5 @@
+Mes prompts pour l'ia :
+
 cc, je voudrais faire un jeu en p5.js. L'idée est de faire le jeu du snake qui mange un truc et qui se rallonge à chaque fois qu'il mange. Je vais faire le jeu avec une grille car c'est le plus logique à faire (et je ne sais pas si on peut faire autrement ?). Voici mes spécifications. Ne génère pas le code final. Aide-moi à coder étape par étape en m'expliquant chaque fonction p5.js dont j'ai besoin. Commence par la section Canvas.
 
 
